@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-*I'm a junior Full Stack Developer in Victoria, BC
+* I'm a junior Full Stack Developer in Victoria, BC
 
 
