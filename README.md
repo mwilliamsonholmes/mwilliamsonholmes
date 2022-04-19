@@ -4,8 +4,8 @@
 * :space_invader: I've spent the past ~10 years working in healthcare, and am excited to step into tech!
 * :speech_balloon: Languages I enjoy using include: JavaScript, HTML, CSS, Ruby, and SQL 
 * :mag: I'm currently learning Python and TypeScript
-* :rose: I'm currently working on a dating app for fun right now 
-* :cat2: Some of my interests include: my cat Roo, spinning :bike: , exploring beautiful BC :evergreen_tree:, and trying new foods! :ramen:
+* :rose: Right now I'm working on a dating app for fun
+* :cat2: Some of my other interests include: my cat Roo, spinning :bike: , exploring beautiful BC :evergreen_tree:, and trying new foods! :ramen:
 	
  
 - - - -
@@ -20,7 +20,7 @@
 
 - - - -
 
-<div><img height="30em" src="https://komarev.com/ghpvc/?username=mwilliamsonholmes&color=blueviolet" /><img href="https://www.linkedin.com/in/melissa-williamson10/" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30em"/> </div>
+<div><img href="https://www.linkedin.com/in/melissa-williamson10/" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30em"/><img height="30em" src="https://komarev.com/ghpvc/?username=mwilliamsonholmes&color=blueviolet" /> </div>
 
 
 
