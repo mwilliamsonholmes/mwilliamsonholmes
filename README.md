@@ -8,6 +8,6 @@
 * :cat2: Some of my interests include: my cat Roo, spinning :bike: , exploring beautiful BC :evergreen_tree:, and trying new foods! :ramen:
 - - - -
 <!-- ![Melissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true) -->
-[![Melissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mwilliamsonholmes&layout=compact&hide=prs&theme=omni)](https://github.com/mwilliamsonholmes/github-readme-stats)
+[![Melissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mwilliamsonholmes&border_radius=10&layout=compact&hide=prs&theme=omni)](https://github.com/mwilliamsonholmes/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mwilliamsonholmes&layout=compact&theme=omni)](https://github.com/mwilliamsonholmes/github-readme-stats)
 
