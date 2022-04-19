@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 
 <!-- ![Melissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true) -->
 [![Melissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mwilliamsonholmes&hide=prs&theme=omni)](https://github.com/mwilliamsonholmes/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mwilliamsonholmes)](https://github.com/mwilliamsonholmes/github-readme-stats)
 
