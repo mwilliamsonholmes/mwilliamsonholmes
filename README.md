@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 * :cat2: Some of my interests include: my cat Roo, spinning :bike: , exploring beautiful BC :evergreen_tree:, and trying new foods! :ramen:
 
 <!-- ![Melissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true) -->
-[![Melissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mwilliamsonholmes&hide=prs)](https://github.com/mwilliamsonholmes/github-readme-stats)
+[![Melissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mwilliamsonholmes&hide=prs&theme=omni)](https://github.com/mwilliamsonholmes/github-readme-stats)
 
 
