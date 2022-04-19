@@ -6,8 +6,21 @@
 * :mag: I'm currently learning Python and TypeScript
 * :rose: I'm currently working on a dating app for fun right now 
 * :cat2: Some of my interests include: my cat Roo, spinning :bike: , exploring beautiful BC :evergreen_tree:, and trying new foods! :ramen:
+	
+ 
 - - - -
 <!-- ![Melissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true) -->
-[![Melissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mwilliamsonholmes&cardType=octocat&border_radius=15&layout=compact&hide=prs&theme=omni)](https://github.com/mwilliamsonholmes/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mwilliamsonholmes&border_radius=15&layout=compact&theme=omni)](https://github.com/mwilliamsonholmes/github-readme-stats)
+<div align='center'>
+<img src="https://github-readme-stats.vercel.app/api?username=mwilliamsonholmes&border_radius=15&layout=compact&hide=prs&theme=omni"
+     alt="Markdown Monster icon"
+     height="150em" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwilliamsonholmes&border_radius=15&layout=compact&theme=omni"
+     alt="Markdown Monster icon"
+      height="150em" />
+</div>
+
+- - - -
+
+<div><img height="30em" src="https://komarev.com/ghpvc/?username=mwilliamsonholmes&color=blueviolet" /><img href="https://www.linkedin.com/in/melissa-williamson10/" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30em"/> </div>
+
+
 
