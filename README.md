@@ -20,7 +20,7 @@
 
 - - - -
 
-<div><img href="https://www.linkedin.com/in/melissa-williamson10/" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30em"/><img height="30em" src="https://komarev.com/ghpvc/?username=mwilliamsonholmes&color=blueviolet" /> </div>
+<div><a href="https://www.linkedin.com/in/melissa-williamson10/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30em"/></a><img height="30em" src="https://komarev.com/ghpvc/?username=mwilliamsonholmes&color=blueviolet" /> </div>
 
 
 
