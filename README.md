@@ -4,7 +4,6 @@
 * :space_invader: I've spent the past ~10 years working in healthcare, and am excited to step into tech!
 * :speech_balloon: Languages I enjoy using include: JavaScript, HTML, CSS, Ruby, and SQL 
 * :mag: I'm currently learning Python and TypeScript
-* :rose: Right now I'm working on a dating app for fun
 * :cat2: Some of my other interests include: my cat Roo, spinning :bike: , exploring beautiful BC :evergreen_tree:, and trying new foods! :ramen:
 	
  
